@@ -1,0 +1,2 @@
+-Ajout du nom
+-Création du fichier changelog
